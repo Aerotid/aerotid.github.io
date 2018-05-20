@@ -102,7 +102,7 @@ $(document).ready(function() {
 			},
 		},
 	});
-	
+
 	var swiperRight = new Swiper('.swiper-container-right', {
 		direction: 'vertical',
 		pagination: {
@@ -125,7 +125,7 @@ $(document).ready(function() {
 			},
 		},
 		breakpoints: {
-			767: {
+			830: {
 				slidesPerView: 1,
 				spaceBetween: 0,
 			}
@@ -143,7 +143,7 @@ $(document).ready(function() {
 			},
 		},
 		breakpoints: {
-			767: {
+			830: {
 				slidesPerView: 1,
 				spaceBetween: 0,
 			}
